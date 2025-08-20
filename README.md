@@ -1,3 +1,5 @@
+<h1>Assignments</h1>
+
 | Week | Date     | Day       | Topic                | NB  | Topic                          | Assignment/Readings Due at Class Time              | Notes                        |
 |------|----------|-----------|----------------------|-----|--------------------------------|---------------------------------------------------|------------------------------|
 | 1    | Aug 19   | Tuesday   | Course Overview      | 1   |                                |                                                   | 1st day of classes           |
@@ -33,3 +35,10 @@
 | 16   | Dec 2    | Tuesday   | Presentations        |     |                                |                                                   |                              |
 |      | Dec 4    | Thursday  | Presentations        |     |                                |                                                   | Last Day of Class            |
 | Finals Week |          |           |                      |     |                                | Final Project Submission / Homework 7 (Generative AI) |                              |
+<h1>Grading Scheme</h1>
+| Component                    | Weight |
+|-------------------------------|--------|
+| Homeworks                     | 40%    |
+| Issues in Deep Learning Panel | 10%    |
+| In-Class Exercises            | 10%    |
+| Final Project                 | 30%    |
