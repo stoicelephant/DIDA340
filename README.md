@@ -36,6 +36,7 @@
 |      | Dec 4    | Thursday  | Presentations        |     |                                |                                                   | Last Day of Class            |
 | Finals Week |          |           |                      |     |                                | Final Project Submission / Homework 7 (Generative AI) |                              |
 <h1>Grading Scheme</h1>
+
 | Component                    | Weight |
 |-------------------------------|--------|
 | Homeworks                     | 40%    |
